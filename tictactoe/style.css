@@ -67,7 +67,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 2vmin;
+    gap: 4vmin;
 }
 
 .hide {
