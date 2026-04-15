@@ -44,4 +44,36 @@ body{
     color: #fff;
     border-radius: 1rem;
     border: none;
+    margin-top: 6vmin;
+}
+
+#New-btn {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color:#191913;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+}
+
+#msg {
+    color: #ffffe7;
+    font-size: 5vmin;
+}
+
+.msg-container {
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2vmin;
+}
+
+.hide {
+    display: none;
+}
+
+.h1{
+    height: 8vmin;
 }
