@@ -63,3 +63,4 @@ xo-game/
 ├── script.js        # Game engine, AI minimax, Web Audio synth, canvas particles
 └── README.md        # Documentation
 ```
+made with love and dedication
